@@ -13,9 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0027-remove-element) |
 | [3524-find-x-value-of-array-i](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3524-find-x-value-of-array-i](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
