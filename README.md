@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0067-add-binary) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0067-add-binary) |
 | [1096-brace-expansion-ii](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Backtracking
 |  |
@@ -84,5 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
