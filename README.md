@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [3524-find-x-value-of-array-i](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DHRUVAA04/leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
